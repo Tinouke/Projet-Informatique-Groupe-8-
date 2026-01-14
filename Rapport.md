@@ -4,7 +4,7 @@ BOITE_NOIRE
 RAPPORT DE PROJET – Boîte Noire 
 1. Présentation du projet
 
-Ce projet consiste à développer le logiciel embarqué d'une boite noire pour un véhicule expérimentale . L'objectif principal est d'intégrer une fonctionnalité de boite noire qui permet d'enregistrer en temps réel le comportement de cet engin. Le programme simule son comportement à travers l'accélération et le freinage. À chaque cycle, des données importantes sont enregistrées afin de permettre une analyse après incident, ce qui reproduit le fonctionnement des boites noires utilisées dans l'industrie aéronotique.
+Ce projet consiste à développer le logiciel embarqué d'une boite noire pour un véhicule expérimentale . L'objectif principal est d'intégrer une fonctionnalité de boite noire qui permet d'enregistrer en temps réel le comportement de cet engin. Le programme simule son comportement à travers l'accélération et le freinage. À chaque cycle, des données importantes sont enregistrées afin de permettre une analyse après incident, ce qui reproduit le fonctionnement des boites noires utilisées dans l'industrie aéronautique.
 
 
 2. Choix techniques
